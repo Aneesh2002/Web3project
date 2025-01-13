@@ -42,4 +42,7 @@ git clone git@github.com:Aneesh2002/Web3project.git
 ```bash
 cd EventTicketing
 ```
+## 🎥 YouTube Demo
+
+[![Watch the demo on YouTube](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=kWVFpRNqr7Y)
 
