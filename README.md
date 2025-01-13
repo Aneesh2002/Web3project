@@ -35,3 +35,7 @@ All transactions and data are stored on the Ethereum blockchain, ensuring transp
 
 ```bash
 git clone git@github.com:Aneesh2002/Web3project.git
+
+# Install for both backend and frontend
+npm install
+
